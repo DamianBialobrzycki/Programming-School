@@ -1,0 +1,4 @@
+﻿  r3z2.cpp
+c:\users\dbial\desktop\książka c++\r3z2\r3z2.cpp(19): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\dbial\desktop\książka c++\r3z2\r3z2.cpp(23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  r3z2.vcxproj -> C:\Users\dbial\Desktop\Książka C++\r3z2\Debug\r3z2.exe

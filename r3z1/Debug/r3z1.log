@@ -1,0 +1,4 @@
+﻿  r3z1.cpp
+c:\users\dbial\desktop\książka c++\r3z1\r3z1.cpp(11): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\dbial\desktop\książka c++\r3z1\r3z1.cpp(12): warning C4305: 'initializing': truncation from 'double' to 'float'
+  r3z1.vcxproj -> C:\Users\dbial\Desktop\Książka C++\r3z1\Debug\r3z1.exe

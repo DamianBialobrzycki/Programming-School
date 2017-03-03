@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  r4z10.cpp
+c:\users\dbial\desktop\książka c++\r4z10\r4z10.cpp(18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  r4z10.vcxproj -> C:\Users\dbial\Desktop\Książka C++\r4z10\Debug\r4z10.exe

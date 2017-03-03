@@ -1,0 +1,4 @@
+﻿  r3z7.cpp
+c:\users\dbial\desktop\książka c++\r3z7\r3z7.cpp(13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dbial\desktop\książka c++\r3z7\r3z7.cpp(14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  r3z7.vcxproj -> C:\Users\dbial\Desktop\Książka C++\r3z7\Debug\r3z7.exe

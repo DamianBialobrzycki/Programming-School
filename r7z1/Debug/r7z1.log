@@ -1,0 +1,6 @@
+﻿  r7z1.cpp
+c:\users\dbial\desktop\książka c++\r7z1\r7z1.cpp(12): warning C4129: '(': unrecognized character escape sequence
+c:\users\dbial\desktop\książka c++\r7z1\r7z1.cpp(12): warning C4129: ')': unrecognized character escape sequence
+c:\users\dbial\desktop\książka c++\r7z1\r7z1.cpp(11): warning C4101: 'srednia': unreferenced local variable
+c:\users\dbial\desktop\książka c++\r7z1\r7z1.cpp(32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  r7z1.vcxproj -> C:\Users\dbial\Desktop\Książka C++\r7z1\Debug\r7z1.exe

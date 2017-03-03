@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  r4z6.cpp
+c:\users\dbial\desktop\książka c++\r4z6\r4z6.cpp(20): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\dbial\desktop\książka c++\r4z6\r4z6.cpp(20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+  r4z6.vcxproj -> C:\Users\dbial\Desktop\Książka C++\r4z6\Debug\r4z6.exe

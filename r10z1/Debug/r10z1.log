@@ -1,0 +1,4 @@
+﻿  definitions.cpp
+c:\users\dbial\desktop\książka c++\r10z1\definitions.cpp(16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  r10z1.vcxproj -> C:\Users\dbial\Desktop\Książka C++\r10z1\Debug\r10z1.exe
+  r10z1.vcxproj -> C:\Users\dbial\Desktop\Książka C++\r10z1\Debug\r10z1.pdb (Partial PDB)
